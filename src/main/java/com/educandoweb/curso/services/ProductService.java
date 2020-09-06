@@ -24,3 +24,6 @@ public class ProductService {
 		return obj.get();
 	}
 }
+
+//Optional encapsular o retorno de métodos e informar 
+//se um valor do tipo <T> está presente ou ausente.
